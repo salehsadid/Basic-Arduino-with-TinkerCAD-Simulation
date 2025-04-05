@@ -68,5 +68,5 @@ Do you have questions or suggestions? If you have an issue, reach out via [Linke
 #Arduino #Tinkercad #Electronics #Simulation #STEM #BeginnerProjects #Makers
 --------------
 Author: <br/> 
-Saleh Sadid Mir <br/>
+SALEH SADID MIR <br/>
 CSE, KUET
