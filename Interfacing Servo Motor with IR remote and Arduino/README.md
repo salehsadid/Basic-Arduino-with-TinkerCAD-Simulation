@@ -46,17 +46,19 @@ This project demonstrates how to control a **servo motor** using an **IR remote*
 - 7. Return servo to 0°
 
 ---
-##📦 Optional Enhancements<br/>
-Add multiple servos and map different remote buttons.<br/>
+## 📦 Optional Enhancements
 
-Use an OLED display to show the current angle.<br/>
+-Add multiple servos and map different remote buttons.
+-Use an OLED display to show the current angle.
+-Add EEPROM storage to remember the last servo position.
 
-Add EEPROM storage to remember the last servo position.<br/>
-##🖥️ Libraries Required<br/>
+## 🖥️ Libraries Required
 Make sure to install these via Library Manager in Arduino IDE:<br/>
 
-IRremote by shirriff<br/>
+- IRremote by shirriff
+- Servo
 
-Servo<br/>
 
+---
+#Arduino #ServoMotor #IRRemote #Robotics #Automation #EmbeddedSystems #Electronics #IoT #MotorControl #ArduinoProjects
 
