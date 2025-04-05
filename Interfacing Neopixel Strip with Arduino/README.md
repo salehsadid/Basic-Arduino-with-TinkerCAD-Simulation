@@ -74,6 +74,6 @@ Install the following via Arduino Library Manager:
 If you're powering a long strip (more than ~10 LEDs), use an **external 5V power supply** with appropriate current rating. Connect all grounds (Arduino, power supply, and strip) together.
 
 ---
-
+#Arduino #NeoPixel #LEDStrip #LightingEffects #Adafruit #EmbeddedSystems #Electronics #IoT #SmartLighting #ArduinoProjects
 
 ```
