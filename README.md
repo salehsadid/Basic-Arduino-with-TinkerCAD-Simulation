@@ -34,7 +34,7 @@ Each project in this repository comes with:
 | 15 | Traffic Light | |
 
 ---
-🎓 Who Is This For?
+🎓 Who Is This For?< br / >
 🧑‍🎓 Students and beginners learning electronics
 
 👩‍🏫 Teachers demonstrating Arduino in class
@@ -58,16 +58,16 @@ You don’t need any physical hardware to run these projects. You only need:
    ```bash
    git clone https://github.com/yourusername/basic-arduino-with-tinkercad-simulation.git
 
-🙌 Contributing
+🙌 **Contributing**< br / >
 Pull requests are welcome! If you have a cool beginner project you'd like to add, feel free to fork and submit.
-
-⭐ Show Your Support
+< br / >
+⭐ **Show Your Support**< br / >
 If you find this helpful, give the repo a ⭐ and share it with others who are learning Arduino!
-
-📬 Contact
+< br / >
+📬 **Contact** < br / >
 Do you have questions or suggestions? If you have an issue, reach out via [LinkedIn](www.linkedin.com/in/saleh-sadid-mir-749146281).
 
 #Arduino #Tinkercad #Electronics #Simulation #STEM #BeginnerProjects #Makers
 --------------
-Author: Saleh Sadid Mir 
+Author: Saleh Sadid Mir < br / >
 CSE, KUET
