@@ -34,7 +34,7 @@ Each project in this repository comes with:
 | 15 | Traffic Light | |
 
 ---
-🎓 Who Is This For?< br / >
+🎓 Who Is This For?<br/>
 🧑‍🎓 Students and beginners learning electronics
 
 👩‍🏫 Teachers demonstrating Arduino in class
