@@ -38,4 +38,4 @@ This project simulates a simple **Traffic Light System** using an **Arduino** an
 
 ---
 
-#Arduino #Keypad #EmbeddedSystems #Electronics #DIY #KeypadInterface #MatrixKeypad #IoT #ArduinoProjects #Automation
+#Arduino #TrafficLight #EmbeddedSystems #IoT #LEDControl #SmartCity #Automation #ArduinoProjects #CProgramming #Electronics
