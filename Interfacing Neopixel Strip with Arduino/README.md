@@ -75,7 +75,5 @@ If you're powering a long strip (more than ~10 LEDs), use an **external 5V power
 
 ---
 
-## 📎 License
-This project is open-source and free to use under the MIT License.
 
 ```
