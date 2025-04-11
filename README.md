@@ -18,8 +18,7 @@ Each project in this repository comes with:
 | #  | Project Title         | TinkerCAD Simulation Link            |
 |----|------------------------|------------------------------------|
 | 1  | Arduino Calculator Using 4*4 keypad and LCD display  | [Link](https://www.tinkercad.com/things/kvaSw3RhAMU-arduino-calculator-using-44-keypad-and-lcd-display?sharecode=undefined)  |
-| 2  | Automatic Smart Hand Sanitizer
-  | [Link](https://www.tinkercad.com/things/48WEQQ6mfWW-automatic-smart-hand-sanitizer?sharecode=XMMlol6WYBdXqmNJCFjas78cYQaQ8cKmEmpFJr2g5h8)  |
+| 2  | Automatic Smart Hand Sanitizer | [Link](https://www.tinkercad.com/things/48WEQQ6mfWW-automatic-smart-hand-sanitizer?sharecode=XMMlol6WYBdXqmNJCFjas78cYQaQ8cKmEmpFJr2g5h8)  |
 | 3  | Blink Light                                          | [Link](https://www.tinkercad.com/things/8YuUWt4cEiJ-password-protected-security-system-using-arduino-?sharecode=TKPNBPZtkYHaDS9g6HDS2xeXbOTd_IE8ueiSV1YhOSA)  |
 | 4  | Capacitance Meter using Arduino                      | [Link](https://www.tinkercad.com/things/lfFz6s8bnJo-capacitance-meter-using-arduino?sharecode=JpIUm52ajlEjxb2_UMIzVAuczgPHOz9tiHkc-vDuk6A)  |
 | 5  | Controlling LED using IR remote and Arduino          | [Link](https://www.tinkercad.com/things/gKL6EoHKXjw-controlling-led-using-ir-remote-and-arduino?sharecode=WT84kD96TugjL2JuaBp76MetcUQnq76xC9b7pj-M5iw)  |
