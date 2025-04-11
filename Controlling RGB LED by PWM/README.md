@@ -1,5 +1,4 @@
 
-```markdown
 # Controlling RGB LED by PWM using Arduino
 
 This project demonstrates how to control a Common Cathode RGB LED using **Pulse Width Modulation (PWM)** on an Arduino. It cycles through multiple colors by adjusting the intensity of the red, green, and blue components with `analogWrite()`. A great way to learn PWM and color mixing with Arduino!
