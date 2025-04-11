@@ -17,28 +17,29 @@ Each project in this repository comes with:
 
 | #  | Project Title         | TinkerCAD Simulation Link            |
 |----|------------------------|------------------------------------|
-| 1  | Arduino Calculator Using 4*4 keypad and LCD display  | [Link](https://www.tinkercad.com/things/kvaSw3RhAMU-arduino-calculator-using-44-keypad-and-lcd-display?sharecode=undefined)  |
-| 2  | Automatic Smart Hand Sanitizer | [Link](https://www.tinkercad.com/things/48WEQQ6mfWW-automatic-smart-hand-sanitizer?sharecode=XMMlol6WYBdXqmNJCFjas78cYQaQ8cKmEmpFJr2g5h8)  |
-| 3  | Blink Light                                          | [Link](https://www.tinkercad.com/things/8YuUWt4cEiJ-password-protected-security-system-using-arduino-?sharecode=TKPNBPZtkYHaDS9g6HDS2xeXbOTd_IE8ueiSV1YhOSA)  |
-| 4  | Capacitance Meter using Arduino                      | [Link](https://www.tinkercad.com/things/lfFz6s8bnJo-capacitance-meter-using-arduino?sharecode=JpIUm52ajlEjxb2_UMIzVAuczgPHOz9tiHkc-vDuk6A)  |
-| 5  | Controlling LED using IR remote and Arduino          | [Link](https://www.tinkercad.com/things/gKL6EoHKXjw-controlling-led-using-ir-remote-and-arduino?sharecode=WT84kD96TugjL2JuaBp76MetcUQnq76xC9b7pj-M5iw)  |
-| 6  | Controlling RGB LED by PWM          | [Link](https://www.tinkercad.com/things/53SY8lK1l8g-controlling-rgb-led-by-pwm?sharecode=HZbM3jW2cqk76-4rgnL9UX96hyE3AzDDkZVWWTHLsxQ)  |
-| 7  | Creating Piano with Ardiono                          | [Link](https://www.tinkercad.com/things/8d9vZK8vHZb-creating-piano-with-arduino-?sharecode=6r_KKSZlROo56n-BaoAjbM72zl3_7wyluYvVo-DXKOg)|
-| 8  | Digital Thermometer Using Arduino and LCD                   | [Link](https://www.tinkercad.com/things/7EFH1Iuk5BE-digital-thermometer-using-arduino-and-lcd?sharecode=DHCsGDEihK0zk_wly_HvhOv-z9BGW-r4Q4i7Ccdm764)|
-| 9  | Fire Alarm using Temperature and Gas Sensor          | [Link](https://www.tinkercad.com/things/2AcCpre0I8t-interfacing-ultrasonic-sensor-with-arduino-?sharecode=ePK0yY8Ea0Qx8mqINpIa7q1-9kjEVP3t2-bCHwI5eR0)|
-| 10  | 4*4 keypad interfacing with Arduino                  | [Link](https://www.tinkercad.com/things/gyOY6BoxGyv-44-keypad-interfacing-with-arduino-uno-?sharecode=Rh6UfsQyFvJtukkAFNK8szjhwxGWOS3-yS4KC3uQJLY)  |
-| 11  | Interfacing Neopixel Strip with Arduino              | [Link](https://www.tinkercad.com/things/537RtaETPuw-interfacing-neopixel-strip-with-arduino?sharecode=undefined)|
-| 12  | Interfacing Photodiode with Arduino              | [Link](https://www.tinkercad.com/things/aEmminIxzup-interfacing-photodiode-with-arduino?sharecode=GJOZcocH9imCUfaduTrFbLhJs4v5UNDN1XIbQfhC2EE)|
-| 13  | Interfacing Servo motor with IR remote and Arduino   | [Link](https://www.tinkercad.com/things/1RZwkx0egmJ-interfacing-servo-motor-with-ir-remote-and-arduino?sharecode=undefined)|
-| 14 | Interfacing Ultrasonic Sensor with Arduino           | [Link](https://www.tinkercad.com/things/2AcCpre0I8t-interfacing-ultrasonic-sensor-with-arduino-?sharecode=undefined)|
-| 15 | Light Intensity Measurement using LDR Sensor         | [Link](https://www.tinkercad.com/things/l79AD3CZpRm-light-intensity-mesurement-using-ldr-sensor?sharecode=ZUQxCdtCGjlKfW5NU-jajVy7ZyeEagcyaIZBsCco9Do)|
-| 16 | PIR sensor with Arduino         | [Link](https://www.tinkercad.com/things/kWFNttMQXb6-pir-sensor-with-arduino?sharecode=UPJ8rrvoOKAOY-dRD4OwVcbibMm00e-d_fKP3eVkLkI)|
-| 17 | Password-protected security system using Arduino     | [Link](https://www.tinkercad.com/things/8YuUWt4cEiJ-password-protected-security-system-using-arduino-?sharecode=TKPNBPZtkYHaDS9g6HDS2xeXbOTd_IE8ueiSV1YhOSA)|
-| 18 | Potentiometer                                        |[Link](https://www.tinkercad.com/things/b1qNr9b9rCX-potentiometer) |
-| 18 | Solar Tracker System Using Arduino and LDR                                        |[Link](https://www.tinkercad.com/things/3usnzeA3Hp7-solar-tracker-system-using-arduino-and-ldr?sharecode=JJ1rDpuNz-Ip-FIjtMyP2vKoeh6SbrHfCfxvCe_JPfc) |
-| 19 | Temperature Sensor with Arduino                      |[Link](https://www.tinkercad.com/things/hkxxPS6Wq0I-temperature-sensor-with-arduino?sharecode=6t2o_tn2Yc-ai1wcsD_kIUwXoaEVptB50JxlGi-pvoI) |
-| 20 | Thermometer using ATtiny85                      |[Link](https://www.tinkercad.com/things/aCNxyhGfkH1-thermometer-using-attiny85?sharecode=PVNRphcrx-deRoITmoOmBsbyj74T9jH8m2UMqTv7oaA) |
-| 21 | Traffic Light                                        |[Link](https://www.tinkercad.com/things/0mXS6duXab9-traffic-light?sharecode=Q8QdN0cHstD-AOrVyvexEjjy-XcmQld4SAoDiqS8OLE) |
+|  Arduino Calculator Using 4*4 keypad and LCD display  | [Link](https://www.tinkercad.com/things/kvaSw3RhAMU-arduino-calculator-using-44-keypad-and-lcd-display?sharecode=undefined)  |
+|  Automatic Smart Hand Sanitizer | [Link](https://www.tinkercad.com/things/48WEQQ6mfWW-automatic-smart-hand-sanitizer?sharecode=XMMlol6WYBdXqmNJCFjas78cYQaQ8cKmEmpFJr2g5h8)  |
+| Blink Light                                          | [Link](https://www.tinkercad.com/things/iAXeBaAczE7-blink-light?sharecode=undefined)  |
+|  Capacitance Meter using Arduino                      | [Link](https://www.tinkercad.com/things/lfFz6s8bnJo-capacitance-meter-using-arduino?sharecode=JpIUm52ajlEjxb2_UMIzVAuczgPHOz9tiHkc-vDuk6A)  |
+|  Controling the brightness of LED using ATtiny85         | [Link](https://www.tinkercad.com/things/9ZQ9a04aZt1-controling-the-brightness-of-led-using-attiny85?sharecode=yWlu92CwuD-2l_loEkHXjpDkbA2lWAUkmge429J7cwM)  |
+|  Controlling LED using IR remote and Arduino          | [Link](https://www.tinkercad.com/things/gKL6EoHKXjw-controlling-led-using-ir-remote-and-arduino?sharecode=WT84kD96TugjL2JuaBp76MetcUQnq76xC9b7pj-M5iw)  |
+|  Controlling RGB LED by PWM          | [Link](https://www.tinkercad.com/things/53SY8lK1l8g-controlling-rgb-led-by-pwm?sharecode=HZbM3jW2cqk76-4rgnL9UX96hyE3AzDDkZVWWTHLsxQ)  |
+|  Creating Piano with Ardiono                          | [Link](https://www.tinkercad.com/things/8d9vZK8vHZb-creating-piano-with-arduino-?sharecode=6r_KKSZlROo56n-BaoAjbM72zl3_7wyluYvVo-DXKOg)|
+|  Digital Thermometer Using Arduino and LCD                   | [Link](https://www.tinkercad.com/things/7EFH1Iuk5BE-digital-thermometer-using-arduino-and-lcd?sharecode=DHCsGDEihK0zk_wly_HvhOv-z9BGW-r4Q4i7Ccdm764)|
+|  Fire Alarm using Temperature and Gas Sensor          | [Link](https://www.tinkercad.com/things/djOTRmhup7E-fire-alarm-using-temperature-and-gas-sensor)|
+|  4*4 keypad interfacing with Arduino                  | [Link](https://www.tinkercad.com/things/gyOY6BoxGyv-44-keypad-interfacing-with-arduino-uno-?sharecode=Rh6UfsQyFvJtukkAFNK8szjhwxGWOS3-yS4KC3uQJLY)  |
+|  Interfacing Neopixel Strip with Arduino              | [Link](https://www.tinkercad.com/things/537RtaETPuw-interfacing-neopixel-strip-with-arduino?sharecode=undefined)|
+| Interfacing Photodiode with Arduino              | [Link](https://www.tinkercad.com/things/aEmminIxzup-interfacing-photodiode-with-arduino?sharecode=GJOZcocH9imCUfaduTrFbLhJs4v5UNDN1XIbQfhC2EE)|
+|  Interfacing Servo motor with IR remote and Arduino   | [Link](https://www.tinkercad.com/things/1RZwkx0egmJ-interfacing-servo-motor-with-ir-remote-and-arduino?sharecode=undefined)|
+| Interfacing Ultrasonic Sensor with Arduino           | [Link](https://www.tinkercad.com/things/2AcCpre0I8t-interfacing-ultrasonic-sensor-with-arduino-?sharecode=undefined)|
+|  Light Intensity Measurement using LDR Sensor         | [Link](https://www.tinkercad.com/things/l79AD3CZpRm-light-intensity-mesurement-using-ldr-sensor?sharecode=ZUQxCdtCGjlKfW5NU-jajVy7ZyeEagcyaIZBsCco9Do)|
+|  PIR sensor with Arduino         | [Link](https://www.tinkercad.com/things/kWFNttMQXb6-pir-sensor-with-arduino?sharecode=UPJ8rrvoOKAOY-dRD4OwVcbibMm00e-d_fKP3eVkLkI)|
+|  Password-protected security system using Arduino     | [Link](https://www.tinkercad.com/things/8YuUWt4cEiJ-password-protected-security-system-using-arduino-?sharecode=TKPNBPZtkYHaDS9g6HDS2xeXbOTd_IE8ueiSV1YhOSA)|
+| Potentiometer                                        |[Link](https://www.tinkercad.com/things/b1qNr9b9rCX-potentiometer) |
+|  Solar Tracker System Using Arduino and LDR                                        |[Link](https://www.tinkercad.com/things/3usnzeA3Hp7-solar-tracker-system-using-arduino-and-ldr?sharecode=JJ1rDpuNz-Ip-FIjtMyP2vKoeh6SbrHfCfxvCe_JPfc) |
+|  Temperature Sensor with Arduino                      |[Link](https://www.tinkercad.com/things/hkxxPS6Wq0I-temperature-sensor-with-arduino?sharecode=6t2o_tn2Yc-ai1wcsD_kIUwXoaEVptB50JxlGi-pvoI) |
+|  Thermometer using ATtiny85                      |[Link](https://www.tinkercad.com/things/aCNxyhGfkH1-thermometer-using-attiny85?sharecode=PVNRphcrx-deRoITmoOmBsbyj74T9jH8m2UMqTv7oaA) |
+|  Traffic Light                                        |[Link](https://www.tinkercad.com/things/0mXS6duXab9-traffic-light?sharecode=Q8QdN0cHstD-AOrVyvexEjjy-XcmQld4SAoDiqS8OLE) |
 
 ---
 🎓 **Who Is This For?**<br/>
