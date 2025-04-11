@@ -15,8 +15,8 @@ Each project in this repository comes with:
 
 ## 💡 Projects Included
 
-| #  | Project Title         | TinkerCAD Simulation Link            |
-|----|------------------------|------------------------------------|
+|  Project Title         | TinkerCAD Simulation Link            |
+|------------------------|------------------------------------|
 |  Arduino Calculator Using 4*4 keypad and LCD display  | [Link](https://www.tinkercad.com/things/kvaSw3RhAMU-arduino-calculator-using-44-keypad-and-lcd-display?sharecode=undefined)  |
 |  Automatic Smart Hand Sanitizer | [Link](https://www.tinkercad.com/things/48WEQQ6mfWW-automatic-smart-hand-sanitizer?sharecode=XMMlol6WYBdXqmNJCFjas78cYQaQ8cKmEmpFJr2g5h8)  |
 | Blink Light                                          | [Link](https://www.tinkercad.com/things/iAXeBaAczE7-blink-light?sharecode=undefined)  |
